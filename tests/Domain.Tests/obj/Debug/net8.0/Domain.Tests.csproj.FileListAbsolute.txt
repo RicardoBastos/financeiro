@@ -100,3 +100,4 @@ C:\Users\ricar\Documents\Financeiro\tests\Domain.Tests\bin\Debug\net8.0\xunit.ab
 C:\Users\ricar\Documents\Financeiro\tests\Domain.Tests\bin\Debug\net8.0\xunit.assert.dll
 C:\Users\ricar\Documents\Financeiro\tests\Domain.Tests\bin\Debug\net8.0\xunit.core.dll
 C:\Users\ricar\Documents\Financeiro\tests\Domain.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\ricar\Documents\Financeiro\tests\Domain.Tests\obj\Debug\net8.0\Domain.Tests.sourcelink.json
